@@ -1,2 +1,2 @@
-# Resository1
-Resository1
+# Repository1
+Repository1
